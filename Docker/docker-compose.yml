@@ -1,0 +1,7 @@
+# Docker compose file
+
+# I want to change the version via Jenkins job...
+
+Image Version 1.3.2
+
+# some other text...
